@@ -1,0 +1,17 @@
+﻿{
+  "Name": "weather",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Jfu6YG11VkGU-EGC1xK2Bg",
+  "Reference": "ko5MNS8Fg0CMT0fBCvuTYg/Jfu6YG11VkGU-EGC1xK2Bg",
+  "ParentRef": "ko5MNS8Fg0CMT0fBCvuTYg/i3MzuRsME0Wr0MHKWvpCUw",
+  "Created": "2026-08-31T08:49:57.0701572Z",
+  "Updated": "2026-08-31T08:50:25.3764966Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

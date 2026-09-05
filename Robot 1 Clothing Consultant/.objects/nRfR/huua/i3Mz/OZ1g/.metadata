@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Scattered thunderstorms",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "OZ1gYcWheUuJLaNAAEGFCA",
+  "Reference": "ko5MNS8Fg0CMT0fBCvuTYg/OZ1gYcWheUuJLaNAAEGFCA",
+  "ParentRef": "ko5MNS8Fg0CMT0fBCvuTYg/i3MzuRsME0Wr0MHKWvpCUw",
+  "Created": "2026-09-02T14:26:53.2397033Z",
+  "Updated": "2026-09-02T14:26:53.2397033Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

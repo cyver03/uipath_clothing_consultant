@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Google Search'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "AG4hTg6TKU6yFrVORRcV9g",
+  "Reference": "ko5MNS8Fg0CMT0fBCvuTYg/AG4hTg6TKU6yFrVORRcV9g",
+  "ParentRef": "ko5MNS8Fg0CMT0fBCvuTYg/r7C8L1VS3EKLXvL_vJhyGA",
+  "Created": "2026-08-31T08:10:57.1331876Z",
+  "Updated": "2026-08-31T08:10:57.1331876Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
